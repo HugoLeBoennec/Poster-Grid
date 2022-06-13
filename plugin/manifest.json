@@ -81,12 +81,12 @@
     },
     {
       "type": "panel",
-      "id": "moreDemos",
+      "id": "gridView",
       "label": {
-        "default": "Demo Panel 2"
+        "default": "New Grid view"
       },
       "minimumSize": {
-        "width": 230,
+        "width": 240,
         "height": 200
       },
       "maximumSize": {
@@ -94,11 +94,11 @@
         "height": 2000
       },
       "preferredDockedSize": {
-        "width": 230,
+        "width": 240,
         "height": 300
       },
       "preferredFloatingSize": {
-        "width": 230,
+        "width": 240,
         "height": 300
       },
       "icons": [
